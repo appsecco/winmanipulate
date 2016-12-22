@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinManipulate", "WinManipulate.vbproj", "{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		x64Release|Any CPU = x64Release|Any CPU
+		x64Release|x64 = x64Release|x64
+		x64Release|x86 = x64Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|x64.ActiveCfg = Debug|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|x64.Build.0 = Debug|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|x86.ActiveCfg = Debug|x86
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Debug|x86.Build.0 = Debug|x86
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|x64.ActiveCfg = Release|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|x64.Build.0 = Release|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|x86.ActiveCfg = Release|x86
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.Release|x86.Build.0 = Release|x86
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|Any CPU.ActiveCfg = x64Release|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|Any CPU.Build.0 = x64Release|Any CPU
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|x64.ActiveCfg = x64Release|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|x64.Build.0 = x64Release|x64
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|x86.ActiveCfg = x64Release|x86
+		{F994AFDA-7BEA-4E15-971A-C173C4D87A6D}.x64Release|x86.Build.0 = x64Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
